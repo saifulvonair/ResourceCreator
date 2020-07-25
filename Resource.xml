@@ -1,0 +1,52 @@
+<HostResource version="1.0">
+  <Dialogs>
+    <Dialog Id="1">
+      <Properties>
+        <Name>Window</Name>
+        <Text>Window</Text>
+        <Enable>true</Enable>
+        <Location>0,0</Location>
+        <Size>550,400</Size>
+        <Visible>true</Visible>
+        <SystemMenu>true</SystemMenu>
+        <BorderStyle>Sizable</BorderStyle>
+        <HelpButton>true</HelpButton>
+        <Icon>Default</Icon>
+        <MaximizeBox>true</MaximizeBox>
+        <MinimizeBox>true</MinimizeBox>
+        <ShowIcon>true</ShowIcon>
+        <TopMost>false</TopMost>
+        <TopLevel>false</TopLevel>
+        <WindowState>Normal</WindowState>
+      </Properties>
+      <Button Id="1">
+        <Properties>
+          <Name>Button</Name>
+          <Text>Hello</Text>
+          <Enable>true</Enable>
+          <Location>96,174</Location>
+          <Size>86,23</Size>
+          <Visible>true</Visible>
+          <FlatStyle>Standard</FlatStyle>
+          <ImageAlign>MiddleCenter</ImageAlign>
+          <TabStop>true</TabStop>
+          <TabIndex>1</TabIndex>
+        </Properties>
+      </Button>
+      <Button Id="2">
+        <Properties>
+          <Name>Button2</Name>
+          <Text>How are you?</Text>
+          <Enable>true</Enable>
+          <Location>225,171</Location>
+          <Size>76,24</Size>
+          <Visible>true</Visible>
+          <FlatStyle>Standard</FlatStyle>
+          <ImageAlign>MiddleCenter</ImageAlign>
+          <TabStop>true</TabStop>
+          <TabIndex>1</TabIndex>
+        </Properties>
+      </Button>
+    </Dialog>
+  </Dialogs>
+</HostResource>
