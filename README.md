@@ -5,6 +5,6 @@ Using this application user can create the drawing element like Button with its 
 # What Developer can get
 - Command pattern [Undo Redo]
 - Object Tracker for Track Object [HitTest is used to get selected object]
-- XML parser to load and save the object propery
+- XML parser to load and save the object properties
 - Factory patter to create Object
-- Observer pattern to update the object prperties when click on object
+- Observer pattern to update the object properties when click on object
